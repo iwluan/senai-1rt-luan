@@ -1,0 +1,18 @@
+
+ python 
+ proposito geral, ou seja, serve para muitas coisas
+ 
+ linguagem de alto nivel - mais facil de programadores entenderem 
+ 
+ quanto mais baixo o nivel maior a dificuldade de entendimento
+
+ multiplataforma - roda em diversos locais
+
+ utilidades
+
+ analise de dados
+ inteligencia artificial
+ testes de invasao
+ automação em nuvem
+
+ a vantagem do python é a disponibilidade de comandos e soluções ja prontas
